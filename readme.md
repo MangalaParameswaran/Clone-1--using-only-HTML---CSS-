@@ -1,0 +1,1 @@
+BY using HTML and CSS itself i can create "Medilab" Clone site. 
